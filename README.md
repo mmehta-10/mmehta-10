@@ -95,17 +95,7 @@ Why isn't autoscaling keeping up?
 Where did all those IOPS come from?
 How do we give developers access without giving them the keys to production?
 ```
-
 ---
-
-## 📈 GitHub
-
-![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmehta-10\&show_icons=true\&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmehta-10\&layout=compact)
-
----
-
 ## 🤝 Interested in
 
 **Kubernetes • Platform Engineering • SRE • AWS • GitOps • Infrastructure Automation • FinOps • Blockchain Infrastructure**
